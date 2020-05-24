@@ -16,10 +16,13 @@ PROVIDERS="
 208.67.222.123#opendns 
 199.85.126.20#norton 
 185.228.168.168#cleanbrowsing 
-77.88.8.7#yandex 
+77.88.8.7#yandex1
+208.67.222.222#yandex2
+77.88.8.8#yandex3
 176.103.130.132#adguard 
 156.154.70.3#neustar 
 8.26.56.26#comodo
+114.114.114.114#chinadx
 "
 
 # Domains to test. Duplicated domains are ok
